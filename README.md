@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+MSc Physics student at ETH Zurich
 <!--
 **joporsch04/joporsch04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
