@@ -3,7 +3,13 @@
 I’m Johannes Porsch, a Master’s student in Physics at ETH Zurich. I am currently focusing on quantum field theory, quantum optics, and computational approaches to gauge theories. I completed my Bachelor’s degree in Munich, where I worked as a research assistant at the Max Planck Institute of Quantum Optics, focusing on theoretical strong-field physics and electron dynamics.
 
 <p>
-<a href="https://www.linkedin.com/in/joporsch04/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/joporsch04/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://joporsch04.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-FF4500.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joporsch04/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%234285F4.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/joporsch04/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23EA4335.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://joporsch04.github.io">
+  <img alt="Website" src="https://img.shields.io/badge/Website-%23FBBC05.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
+</a>
 </p>
