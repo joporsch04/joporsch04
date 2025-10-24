@@ -10,6 +10,6 @@ I’m Johannes Porsch, a Master’s student in Physics at ETH Zurich. I am curre
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23EA4335.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://joporsch04.github.io">
-  <img alt="Website" src="https://img.shields.io/badge/Website-%23FBBC05.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
+  <img alt="Website" src="https://img.shields.io/badge/Website-%2334A853.svg?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
 </a>
 </p>
