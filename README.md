@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Johannes Porsch, a Master’s student in Physics at ETH Zurich. I am currently focusing on quantum field theory, quantum optics, and computational approaches to gauge theories. I completed my Bachelor’s degree in Munich, where I worked as a research assistant at the Max Planck Institute of Quantum Optics, focusing on theoretical strong-field physics and electron dynamics.
+I’m Johannes Porsch, a Master’s student in Physics at ETH Zurich. I am currently focusing on quantum field theory and computational approaches to gauge theories. I completed my Bachelor’s degree in Munich, where I worked as a research assistant at the Max Planck Institute of Quantum Optics, focusing on theoretical strong-field physics and electron dynamics.
 
 <p>
 <a href="https://www.linkedin.com/in/joporsch04/" target="_blank">
